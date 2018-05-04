@@ -3,10 +3,10 @@ package compiler
 import (
 	"fmt"
 
-	"github.com/jingweno/godzilla/ast"
-	"github.com/jingweno/godzilla/runtime"
-	"github.com/jingweno/godzilla/source"
-	"github.com/jingweno/godzilla/utils"
+	"github.com/srax47/godzilla/ast"
+	"github.com/srax47/godzilla/runtime"
+	"github.com/srax47/godzilla/source"
+	"github.com/srax47/godzilla/utils"
 )
 
 func Compile(f *ast.File) *source.Code {

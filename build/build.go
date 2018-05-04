@@ -10,9 +10,9 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/jingweno/godzilla/ast"
-	"github.com/jingweno/godzilla/compiler"
-	"github.com/jingweno/godzilla/source"
+	"github.com/srax47/godzilla/ast"
+	"github.com/srax47/godzilla/compiler"
+	"github.com/srax47/godzilla/source"
 )
 
 func Run(parserPath string, r io.Reader) (string, error) {

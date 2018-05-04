@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jingweno/godzilla/ast"
+	"github.com/srax47/godzilla/ast"
 )
 
 func TestCompile(t *testing.T) {

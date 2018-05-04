@@ -10,7 +10,7 @@ import (
 const tmpl = `package main
 
 import (
-	. "github.com/jingweno/godzilla/runtime"
+	. "github.com/srax47/godzilla/runtime"
 )
 
 func main() {

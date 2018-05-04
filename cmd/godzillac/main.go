@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/jingweno/godzilla/build"
+	"github.com/srax47/godzilla/build"
 	"github.com/spf13/cobra"
 )
 
